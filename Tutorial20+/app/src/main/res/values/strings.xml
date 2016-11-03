@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SwipingSwiper</string>
+    <string name="action_settings">Settings</string>
+    <string name="MessageRes">Hi</string>
+    <string name="ButtonRes">Click Me</string>
+    <string name="MyMess">Hello</string>
+</resources>
